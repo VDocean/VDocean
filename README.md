@@ -2,7 +2,8 @@
  
 *Vitória Nascimento*
 
-Amante de ciências e tecnologia, também uso meu tempo livre para me dedicar ao macramê, exercícios e desenhos. Manter minha mente ativa ao elaborar soluções para problemas reais me faz sentir viva 🌱.
+Atualmente QA manual, também estudo automação de testes para engajar minha carreira. Anterior a este cargo fui desenvolvedora low code na plataforma Pegasystems.  
+Fora do mundo profissional também sou amante de ciências, macramê, exercícios e desenhos. 🌱
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivanascimento/)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/vivanascimento2020@gmail.com)
@@ -11,10 +12,12 @@ Amante de ciências e tecnologia, também uso meu tempo livre para me dedicar ao
 
 🖥️ **Tecnologias**
 
+![](https://img.shields.io/badge/Cypress-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/Postman-D8B012?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/SQL-DB012?style=for-the-badge&logo=java&logoColor=white)  
+![](https://img.shields.io/badge/JavaScript-DB0122?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/Spring-D8B012?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/SQL-DB012?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/Phyton-DB0122?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/Octane-DB012?style=for-the-badge&logo=java&logoColor=white)
 
 ![Linguagens repositórios](https://github-readme-stats.vercel.app/api/top-langs/?username=VDocean&layout=compact)
 
